@@ -17,7 +17,8 @@
 - El sistema debe confirmar o denegar la reserva dependiendo del resultado de las validaciones, informando al usuario el resultado
 
 ---
-
+- Requerimientos NO Funcionales:
+  
 - RNF1-DISEÑO VISUAL
 - El sistema debe mantener los colores representativos del programa de ingenieria de sistemas y utilizar una tipografia legible
 
